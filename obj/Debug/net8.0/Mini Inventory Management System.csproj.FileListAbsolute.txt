@@ -1,0 +1,49 @@
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.staticwebassets.runtime.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.staticwebassets.endpoints.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.exe
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.deps.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.runtimeconfig.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Mini Inventory Management System.pdb
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.AssemblyInfo.cs
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.RazorAssemblyInfo.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.RazorAssemblyInfo.cs
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\scopedcss\bundle\Mini Inventory Management System.styles.css
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\scopedcss\projectbundle\Mini Inventory Management System.bundle.scp.css
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets\msbuild.Mini Inventory Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets\msbuild.Mini Inventory Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini Inventory Management System.props
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini Inventory Management System.props
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini Inventory Management System.props
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inv.9C341E6E.Up2Date
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\refint\Mini Inventory Management System.dll
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.pdb
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\Mini Inventory Management System.genruntimeconfig.cache
+C:\Users\ranji\source\repos\Mini Inventory Management System\Mini Inventory Management System\obj\Debug\net8.0\ref\Mini Inventory Management System.dll
